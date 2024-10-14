@@ -27,3 +27,4 @@ nodes:
     nodeRegistration:
       kubeletExtraArgs:
         node-labels: "node=worker_3"
+        
